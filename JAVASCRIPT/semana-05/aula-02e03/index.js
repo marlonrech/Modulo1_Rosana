@@ -124,20 +124,6 @@ const calculaParteInteiraDaRaizQuadrada = (numero) => {
 console.log(calculaParteInteiraDaRaizQuadrada(5)) // 2
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // ------- Exercício 8 -----------
 // Crie uma arrow function que receba uma string e devolva um objeto com as informações: 
 // - quantos caracteres a string possui
@@ -192,17 +178,6 @@ console.log(descobreInformacoesDaFrase("Você é ótimo, viu?"))
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 // ------- Exercício 9 -----------
 // O dono de um restaurante bem excêntrico pede que você crie um algoritimo para ajudar o segurança que permite a entrada de clientes. 
 // O programa recebe uma lista com informações de cada cliente (nome, idade e altura) e verifique qual deles pode entrar no restaurante.
@@ -225,19 +200,6 @@ const verificaRequisitos = (listaDeClientes) => {
 }
 
 console.log(verificaRequisitos(clientes)) // Podem entrar: Joaquina, Marcos.
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
